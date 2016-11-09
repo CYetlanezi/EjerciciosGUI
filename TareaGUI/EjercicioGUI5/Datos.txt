@@ -1,0 +1,102 @@
+000	Generalidades
+003	Computacion
+004	Computacion
+005	Computacion
+006	Computacion
+010	Bibliografia
+020	Bibliotecologia y ciencias de la informacion
+030	Enciclopedias Generales
+050	Publicaciones en series generales
+060	Organizaciones generales y museologia
+070	Medios noticiosos, periodismo, publicacion
+080	Colecciones generales
+090	Manuscritos y libros raros
+100	Filosofia y Psicologia
+110	Metafisica
+120	Epistemologia, casualidad, genero humano
+130	Fenomenos paranormales
+140	Escuelas filosoficas especificas
+150	Psicologia
+160	Logica
+170	Etica (Filosofia Moral)
+180	Filosofia antigua, medieval, oriental
+190	Filosofia moderna occidental
+200	Religion
+210	Teologia natural
+220	La Biblia
+230	Teologia cristiana
+240	Moral cristiana y teologia piadosa
+250	Ordenes cristianas e iglesia local260 Teologia social cristiana
+270	Historia de la iglesia cristiana
+280	Denominaciones y sectas cristianas
+290	Otras y religion comparada
+300	Ciencias sociales
+310	Estadistica general
+320	Ciencia politica
+330	Economia
+340	Derecho
+350	Administracion publica
+360	Servicios sociales, asociaciones
+370	Educacion
+380	Comercio, comunicaciones, transporte
+390	Costumbres, etiqueta, folclore
+400	Lenguas
+410	Lingüística
+420	Ingles e ingles antiguo
+430	Lenguas germanicas Aleman
+440	Lenguas romance Frances
+450	Italiano, rumano, grecorromano
+460	Lenguas espanola y portuguesa
+470	Lenguas italicas Latin
+480	Lenguas helenicas Griego clasico
+490	Otras lenguas
+500	Ciencias naturales y matematicas
+510	Matematicas
+520	Astronomia y ciencias afines
+530	Fisica
+540	Quimica y ciencias afines
+550	Ciencias de la tierra
+560	Paleontologia y Paleozoologia
+570	Ciencias de la vida
+580	Ciencias botanicas
+590	Ciencias zoologicas
+600	Tecnologia (Ciencias Aplicadas)
+610	Ciencias medicas Medicina
+620	Ingenieria y ciencias afines
+630	Agricultura
+640	Economia domestica y vida familiar
+650	Administracion y servicios auxiliares
+660	Ingeniero quimica
+670	Manufactura
+680	Manufactura para usos especificos
+690	Construccion
+700	Bellas Artes
+710	Urbanismo y arte del paisaje
+720	Arquitectura del paisaje
+730	Artes plasticas Escultura
+740	Dibujo y artes decorativas
+750	Pintura y pinturas
+760	Artes graficas, Arte de grabar y grabados
+770	Fotografia y fotografias
+780	Musica
+790	Artes recreativas y de la actuacion
+800	Literatura y retorica
+810	Literatura norteamericana en ingles
+820	Literaturas inglesa e inglesa antigua
+830	Literaturas de las lenguas germanicas
+840	Literaturas de la lenguas romances
+850	Literaturas italiana, rumana y retroromana
+860	Literatura espanola y portuguesa
+870	Literaturas italicas, literatura latina
+880	Literaturas helenica, Literatura griega clasica
+890	Literatura de otras lenguas
+900	Geografia e historia
+910	Geografia y viajes
+920	Biografia, genealogia, emblemas
+930	Historia del mundo antiguo
+940	Historia general del mundo antiguo
+950	Historia general de Asia Extremo Oriente
+960	Historia general de Africa
+970	Historia general de America del Norte
+980	Historia general de America del Sur
+990	Historia general de otras areas
